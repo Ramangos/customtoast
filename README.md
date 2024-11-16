@@ -1,11 +1,1 @@
-Step 1. Add the JitPack repository to your build file
-
-dependencyResolutionManagement {
-		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-		repositories {
-			mavenCentral()
-			maven { url 'https://jitpack.io' }
-		}
-	}
-
-
+[![](https://jitpack.io/v/Ramangos/customtoast.svg)](https://jitpack.io/#Ramangos/customtoast)
