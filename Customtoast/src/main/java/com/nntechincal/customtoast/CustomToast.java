@@ -65,6 +65,7 @@ public class CustomToast {
         toast.setGravity(toastGravity, defaultXOffset, defaultYOffset);
         toast.setView(layout);
 
+        //show the toast
         // Show the toast
         toast.show();
     }
