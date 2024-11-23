@@ -1,4 +1,4 @@
-package com.nntechincal.customtoast;
+package com.nntechincal.mytoastproj;
 
 import org.junit.Test;
 
